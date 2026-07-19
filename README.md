@@ -34,7 +34,11 @@ Connected Power BI directly to the SQL Server database using DirectQuery for rea
 
 Engineered custom DAX measures to accurately calculate dynamic fraud rates.
 
-Designed an enterprise-grade interactive dashboard featuring advanced slicers and cohesive visual formatting to present findings to non-technical stakeholders.
+Designed an enterprise-grade interactive dashboard featuring advanced slicers and cohesive visual formatting to present 
+findings to non-technical stakeholders.
+
+## 📈 Fraud Analysis Dashboard
+<img width="882" height="500" alt="Screenshot 2026-07-19 163420" src="https://github.com/user-attachments/assets/a1872098-a279-416b-8a21-0f501be00d3d" />
 
 📊 Key Findings & Business Insights
 
